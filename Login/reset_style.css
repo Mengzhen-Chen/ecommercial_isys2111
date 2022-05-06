@@ -45,13 +45,7 @@ body{
     color: #adadad;
     transform: translateY(-50%);
     font-size: 16px;
-    pointer-events: none;
     transition: .5s;
-  }
-  button:hover{
-    background-color: #008CBA;
-    margin: 0;
-    position: relative;
   }
   .address {
     /* padding: 10px 0; */
@@ -69,4 +63,8 @@ body{
     cursor: pointer;
     outline: none;
   }
-
+  button:hover{
+    background-color: #008CBA;
+    margin: 0;
+    position: relative;
+  }
