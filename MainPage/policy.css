@@ -53,10 +53,13 @@ table.table1 {
   .title{
       padding-top: 90px;
       padding-bottom: 90px;
-    text-align: center;
+      text-align: center;
+  }
+  .container-btn{
+    padding-left: 45%;
   }
   button{
-    width: 100%;
+    width: 20%;
     height: 50px;
     border: 1px solid;
     background: #2691d9;
