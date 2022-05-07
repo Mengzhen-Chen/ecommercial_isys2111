@@ -39,6 +39,8 @@ nav ul{
 nav ul li{
     display: inline-block;
     margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     font-size: large;
 }
 .row{
@@ -87,15 +89,3 @@ nav ul li{
     background-color: #4d2600;
 
   }
-  .cateogery img {
-    max-width: 20%;
-    border-radius: 50%;
-  }
-  .cateogery ul{
-    display: inline-block;
-    list-style-type: none;
-}
-/* .cateogery li{
-    /* display: inline-block; */
-    /* margin-right: 20px; */
-} */
